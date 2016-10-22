@@ -4,7 +4,7 @@ title: Extended Care
 permalink: /programs/extended-care/
 ---
 
-## Extended Care is available from 8:00 a.m. to 5:30 p.m. *
+## Extended Care is available from 8:00 AM to 5:30 PM *
 
 Extended care includes additional hours of childcare that families may elect to use for an additional fee. 
 
