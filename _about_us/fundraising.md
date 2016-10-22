@@ -20,12 +20,13 @@ Thank you for your continued support!
 
 #### Pancake Breakfast at Laurel Hill Nursery School
 
-* Saturday, September 27th – 9am-12pm
-* $10 Adults
+* Saturday, September 26th – 9AM-12PM
+* $15 Adults
 * $5 Children
 
+Pancakes! Sausages! Yogurt! Granola! Fruit! Coffee! Tea! Juice!
+
 All proceeds support LHNS.
-more info here
 
 ### Laurel Hill Annual Spring Auction
 
