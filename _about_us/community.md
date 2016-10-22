@@ -4,6 +4,10 @@ title: Community
 permalink: /about-us/community/
 ---
 
+## Parent Support
+
+## Program Enrichment
+
 Laurel Hill Open House
 Sunday, November 2nd
 
