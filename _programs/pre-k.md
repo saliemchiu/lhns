@@ -4,7 +4,9 @@ title: Pre-K
 permalink: /programs/pre-k/
 ---
 
-Laurel Hill’s Pre-K program is specifically designed for children who would benefit socially or physically by deferring kindergarten entrance. The program is located in a classroom built especially for the Pre-K in 1994. The ratio of adults to children in the Pre-K program is 1 to 5.
+## Laurel Hill’s Pre-K program is specifically designed for children who would benefit socially or physically by deferring kindergarten entrance. 
+
+The program is located in a classroom built especially for the Pre-K in 1994. The ratio of adults to children in the Pre-K program is 1 to 5.
 
 Children in the Pre-K program participate in learning activities and projects over extended periods of time. Special attention is paid to physical development, as well as acquisition of kindergarten readiness skills
 

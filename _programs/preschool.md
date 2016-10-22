@@ -4,7 +4,9 @@ title: Preschool
 permalink: /programs/preschool/
 ---
 
-Laurel Hill follows a child-centered philosophy of early childhood education. Children are allowed to learn through play and by exploring their environment at their own developmental pace. Organized activities are offered daily and children are free to participate in whichever activities they chose. While children are assigned to a classroom as their base at school, they are free to roam about and take part in activities in any room, or to play outside, rain or shine. 
+## Laurel Hill follows a child-centered philosophy of early childhood education. 
+
+Children are allowed to learn through play and by exploring their environment at their own developmental pace. Organized activities are offered daily and children are free to participate in whichever activities they chose. While children are assigned to a classroom as their base at school, they are free to roam about and take part in activities in any room, or to play outside, rain or shine. 
 
 The following programs are available for children who are between the ages of two years, nine months and five years of age. The programs maintains a ratio of one adult for every five children.
 
@@ -15,7 +17,7 @@ The following programs are available for children who are between the ages of tw
 * Morning Time: 9:00 a.m. to 11:50 a.m.
 * Afternoon Time: 1:00 p.m. to 3:50 p.m.
 
-### Preschool Morning Schedule
+### Morning Preschool Schedule
 
 * 8:00-9:00 	Extended Care opens
 * 8:50 	Workday parents arrive, assist teachers in creating an inviting environment
