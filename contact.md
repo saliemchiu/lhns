@@ -4,12 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Laurel Hill Nursery School
+401 Euclid Avenue
+San Francisco, CA 94118
+Phone: (415) 751-8784
+Email: info (at) laurelhill.org 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For tours, questions about registration or for any legal documentation, please contact our Office Manager, Molly Boyll, at (415) 751-8784.
