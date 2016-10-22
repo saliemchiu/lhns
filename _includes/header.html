@@ -14,11 +14,29 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+
+		  <dl>
+			  <dt>About Us</dt>
+		  		<dl><a href="/about-us/history/">History</a></dl>
+				<dl><a href="/about-us/philosophy/">Philosophy</a></dl>
+				<dl><a href="/about-us/community/">Community</a></dl>
+				<dl><a href="/about-us/our-staff/">Our Staff</a></dl>
+				<dl><a href="/about-us/fundraising/">Fundraising</a></dl>
+
+		  	  <dt>Admissions</dt>
+		  		<dl><a href="/admissions/tuition/">Tuition</a></dl>
+				<dl><a href="/admissions/tours-openhouses/">Tours &amp; Open Houses</a></dl>
+				<dl><a href="/admissions/parent-participation/">Parent Participation</a></dl>
+				<dl><a href="/admissions/how-to-apply/">How to Apply</a></dl>
+				<dl><a href="/admissions/faq/">FAQs</a></dl>
+				
+		  	  <dt>Programs</dt>
+		  		<dl><a href="/programs/preschool/">Preschool</a></dl>
+				<dl><a href="/programs/pre-kindergarten/">Pre-Kindergarten</a></dl>
+				<dl><a href="/programs/extended-care/">Extended Care</a></dl>
+				<dl><a href="/programs/summer-school/">Summer School</a></dl>
+				
+			<dt><a href="/contact">Contact</a></dt>
       </div>
     </nav>
 

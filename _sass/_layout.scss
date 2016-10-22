@@ -25,6 +25,8 @@
 }
 
 .site-nav {
+	
+	/*
     float: right;
     line-height: 56px;
 
@@ -41,8 +43,9 @@
             margin-right: 20px;
         }
     }
-
-    @include media-query($on-palm) {
+	*/
+	
+  //  @include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -50,6 +53,7 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
+
 
         .menu-icon {
             display: block;
@@ -89,8 +93,11 @@
             }
             margin-left: 20px;
         }
-    }
+   // }
 }
+
+	.site-nav dl {padding-right:10px; }
+	.site-nav dt {padding:10px 0; }
 
 
 
