@@ -4,11 +4,14 @@ title: Fundraising
 permalink: /about-us/fundraising/
 ---
 
-Fundraising is a vital part of the Laurel Hill community.The money we raise allows us to provide essential aspects of our program, including teacher salaries, art supplies, music classes, field trips, and scholarships for Laurel Hill families in need. Most importantly, it ensures that the young children in our community get a wonderful head start in developing a lifelong love of learning.
+## Community
 
-There are many ways to help. You can shop at a local merchant affiliated with eScrip; attend one of our many family-friendly fundraising events, such as our monthly Giorgio’s Pizza Night, our annual Pancake Breakfast, or our festive Holiday Faire in December. Our fabulous annual Spring Auction—the year’s biggest fundraiser—is a chance to bid on incredible auction items from art to vacations and dance the night away.
+Community Fundraising reinforces our bond as a community through collaborative social events that provide financial support to the school. Events like our annual Pancake Breakfast and themed Dine Out Nights provide a way for families to converge and connect through food. Commercial programs like eScrip registration and the Sports Basement “Basementeer's Program” seamlessly integrates fundraising into busy parent schedules. Additionally, child-centered events like Winterfest, Trike-A-Thon, Memory Tiles, and Teacher Books create lasting memories and development opportunities that are the cornerstone of Laurel Hill pre-K education.  
 
-Thank you for your continued support!
+## Auction
+
+The Auction Fundraising Committee (AFC) provides funding support vital to academic and administrative operations including staff salaries, art supplies, music classes, field trips, and scholarships for families in need.  Every school year, the AFC coordinates and hosts The Spring Auction—an event focused on fundraising and celebrating our amazing and diverse community. Our current $100,000 annual goal is an ambitious and immense effort, but it is ultimately a “labor of love” that creates an incredible sense of ownership, comradery and fulfillment. We are party planners, cheerleaders, sellers and solicitors, but at our core, we are parents that believe in Laurel Hill and strive to provide our children with the best possible pre-school experience in San Francisco.  
+
 
 ### Laurel Hill Nursery School 2014-2015 Fundraising Events
 
