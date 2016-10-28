@@ -4,19 +4,16 @@ title: Summer School
 permalink: /programs/summer-school/
 ---
 
-## Summer 2016
+## Summer Care
 
-We are offering an AM co-op program (9:00 AM to 12:00 PM) ONLY from June 6th through July 29th. PM will be offered as Extended Care ONLY using a block system June 6th through July 29th. 
+Care is available over the summer for both preschool and pre-k. In general, the co-op program is available for the months of June and July in the morning. Extended care is offered on specific days or hours as requested by parents for the afternoons. 
 
-
-There will be three (3) weeks of AM Pre-K (9:00am to 12:30pm) offered June 13th through July 1st.  Only current graduating children from the 2015/2016 year are eligible.
-
-
-WE WILL BE CLOSED MONDAY JULY 4TH FOR THE INDEPENDENCE DAY HOLIDAY. THE REST OF THAT WEEK WILL BE PRO-RATED
+In addition, three weeks of morning Pre-K was offered in June. Please note that only current graduating children from the previous school year are eligible for summer morning pre-k.
 
 
 ### Fee/Rates Structure
 
+For the Summer of 2016:
 
 * AM Co-op preschool 9:00am to 12:00pm:  $130.00 per week ($104.00 for the week of July 4th)
 * AM Pre-K 9:00am to 12:30pm $150.00 per week

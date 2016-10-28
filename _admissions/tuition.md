@@ -4,7 +4,9 @@ title: Tuition
 permalink: /admissions/tuition/
 ---
 
-Laurel Hill Nursery School is a non-profit business. We depend on your tuition to meet our day-to-day business needs. 
+## Laurel Hill Nursery School is a non-profit business. 
+
+We depend on your tuition to meet our day-to-day business needs. 
 
 Regular monthly tuition for the academic year 2016-17:
 

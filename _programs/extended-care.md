@@ -6,7 +6,7 @@ permalink: /programs/extended-care/
 
 ## Extended Care is available from 8:00 AM to 5:30 PM 
 
-Families have the option to use extended care (*) for an additional fee if they need additional hours of childcare. These hours can include before and after the AM and PM programs, in addition to the regular program hours. 
+Laurel Hill offers flexible hours of care for families who might need it. Families who use the option of extended care (*) can bring their children in both before the AM program, or keep extended care into after the PM program hours. In addition, the PM program hours  can also be set as extended care, as space allows.
 
 Extended care can be used occasionally or on a contracted basis, depending on the needs of the family. Contracted rates are considerably less expensive than the drop-in rates, as they allow for much easier scheduling for the school.
 
