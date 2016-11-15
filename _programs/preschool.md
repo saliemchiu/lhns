@@ -19,6 +19,7 @@ The following programs are available for children who are between the ages of tw
 
 ### Morning Preschool Schedule
 
+| | |
 |--------:|:-------|
 | 8:00-9:00 	| Extended Care opens |
 | 8:50 	| Workday parents arrive, assist teachers in creating an inviting environment |
@@ -32,6 +33,7 @@ The following programs are available for children who are between the ages of tw
 
 ### Afternoon Preschool Schedule
 
+| | |
 |--------:|:-------|
 | 12:00-1:00 	| Extended care hour. Lunchtime and play
 | 12:50 	| Afternoon workday parents arrive, assist teachers in creating an inviting environment |

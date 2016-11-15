@@ -22,6 +22,7 @@ Children with birthdays from December 3 to January 31 will be admitted upon prio
 
 ### Pre-K Morning Schedule
 
+| | |
 |--------:|:-------|
 | 8:00-9:00 	| Extended Care opens |
 | 8:50 	| Workday parents arrive, assist teachers to create an inviting environment |
@@ -33,8 +34,10 @@ Children with birthdays from December 3 to January 31 will be admitted upon prio
 | 11:40-12:15 	| Lower Slope nature exploratory time |
 | 12:15-12:30 	| Group Meeting Time with songs and discussion |
 
+
 ### Afternoon Pre-K Schedule
 
+| | |
 |--------:|:-------|
 | 12:00-1:00 	| Extended care hour. Lunchtime and play |
 | 12:50 	| Afternoon workday parents arrive, assist teachers in creating an inviting environment |
