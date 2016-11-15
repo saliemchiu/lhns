@@ -4,7 +4,7 @@ title: Philosophy
 permalink: /about-us/philosophy/
 ---
 
-## We believe that a play-based nursery school provides a safe environment for children to grow intellectually, socially, emotionally and physically.
+## We believe that a play-based nursery school provides a warm and safe environment where children to grow intellectually, socially, emotionally and physically.
 
 
 The Laurel Hill philosophy is to encourage the development of children in an environment that promotes self-esteem. Ultimately, the sense of self-esteem and accomplishment enables a child to develop natural inner controls based on self-discipline and creativity rather than inhibitions; on guidance rather than dependence, and on respect for the ideas of one’s self and others.
