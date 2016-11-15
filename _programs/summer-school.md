@@ -4,8 +4,6 @@ title: Summer School
 permalink: /programs/summer-school/
 ---
 
-## Summer Care
-
 Care is available over the summer for both preschool and pre-k. In general, the co-op program is available for the months of June and July in the morning. Extended care is offered on specific days or hours as requested by parents for the afternoons. 
 
 In addition, three weeks of morning Pre-K was offered in June. Please note that only current graduating children from the previous school year are eligible for summer morning pre-k.
