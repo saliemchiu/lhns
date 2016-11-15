@@ -19,25 +19,27 @@ The following programs are available for children who are between the ages of tw
 
 ### Morning Preschool Schedule
 
-* 8:00-9:00 	Extended Care opens
-* 8:50 	Workday parents arrive, assist teachers in creating an inviting environment
-* 9:00 	Morning session begins
-* 9:00-10:00 	Indoor/outdoor choice; projects; play
-* 10:00-10:20 	Snack time
-* 10:20-11:20 	Indoor/outdoor choice; free play
-* 11:20-11:40 	Music and Movement or free play
-* 11:40-11:50 	Group Meeting Time with songs and discussion
-* 11:50-11:55 	Gate Time dismissal. Morning preschool session ends
+|--------:|:-------|
+| 8:00-9:00 	| Extended Care opens |
+| 8:50 	| Workday parents arrive, assist teachers in creating an inviting environment |
+| 9:00 	| Morning session begins |
+| 9:00-10:00 	| Indoor/outdoor choice; projects; play |
+| 10:00-10:20 	| Snack time |
+| 10:20-11:20 	| Indoor/outdoor choice; free play |
+| 11:20-11:40 	| Music and Movement or free play |
+| 11:40-11:50 	| Group Meeting Time with songs and discussion |
+| 11:50-11:55 	| Gate Time dismissal. Morning preschool session ends |
 
 ### Afternoon Preschool Schedule
 
-* 12:00-1:00 	Extended care hour. Lunchtime and play
-* 12:50 	Afternoon workday parents arrive, assist teachers in creating an inviting environment
-* 1:00 	Afternoon session begins.
-* 1:00-2:00 	Indoor/outdoor choice; projects and play
-* 2:00-2:20 	Snack time
-* 2:20-3:20 	Indoor/outdoor choice; free play
-* 3:20-3:45 	Music and Movement or free play
-* 3:40-3:50 	Group meeting with songs and discussion
-* 3:50-3:55 	Gate Time dismissal. Afternoon session ends
-* 4:00-5:30 	Extended care available
+|--------:|:-------|
+| 12:00-1:00 	| Extended care hour. Lunchtime and play
+| 12:50 	| Afternoon workday parents arrive, assist teachers in creating an inviting environment |
+| 1:00 	| Afternoon session begins. |
+| 1:00-2:00 	| Indoor/outdoor choice; projects and play |
+| 2:00-2:20 	| Snack time |
+| 2:20-3:20 	| Indoor/outdoor choice; free play |
+| 3:20-3:45 	| Music and Movement or free play |
+| 3:40-3:50 	| Group meeting with songs and discussion |
+| 3:50-3:55 	| Gate Time dismissal. Afternoon session ends |
+| 4:00-5:30 	| Extended care available |
