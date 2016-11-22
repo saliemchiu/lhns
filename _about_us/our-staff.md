@@ -56,14 +56,16 @@ She loves oobleck, dinosaur stomping, bubbles, and copious amounts of glitter, n
 
 ### Justin Volmert, Teacher
 
-AM Blue Room teacher **Justin Volmert** has worked with children of all ages for many years, but was particularly drawn to early education by his experiences as a student and teacher at Stanford’s Bing Nursery School. After taking a quick break to pursue a legal career, he was delighted to return to an inspiring play-based school supported by an amazing community in 2015. 
+AM Blue Room teacher **Justin Volmert** has worked with children of all ages for many years, but was particularly drawn to early education by his experiences as a student and teacher at Stanford's Bing Nursery School, where he taught while pursuing his undergraduate work in child and adolescent development. After taking a quick break to pursue a legal career, he was delighted to return in 2015 to an inspiring play-based school supported by an amazing community. 
 
-He also coaches high school boys’ and girls’ tennis at the Urban School in San Francisco, and is an avid cyclist along with his partner Sarah.
+He also coaches high school boys' and girls' tennis at the Urban School in San Francisco, and is an avid cyclist along with his partner Sarah.
 
 
 ### Marissa Andrade, Teacher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget ornare leo. Morbi commodo ac nunc lobortis feugiat. In lacinia mattis arcu rutrum mollis. Quisque vel dolor elit. Vestibulum ut justo at dui accumsan porta. Donec tincidunt tempus finibus. Proin congue tortor a mauris blandit, non consectetur nisi semper. Pellentesque eget lacus mollis, feugiat mauris egestas, ultrices dolor. Vivamus leo turpis, molestie nec sollicitudin a, varius et nibh. Curabitur nisl arcu, porta eu nibh eget, feugiat maximus risus. Vivamus neque magna, molestie non dictum at, auctor ac urna. Nulla finibus ligula nec erat volutpat 
+**Marissa Andrade's** love for teaching began in 2009 when she became an instructor at an enrichment studio in her hometown of Los Angeles. There she was blessed to experience working with both parents and children instructing a music and movement program dedicated to teaching young children through play. While working there she received her Bachelor of Science degree in Child Development from California State University, Dominguez Hills. After graduating she made the move to San Francisco where she began nannying for a couple of families. She then decided it was time to commit to a teaching position. After a year at another school, she heard about a position available at Laurel Hill and knew this is where she wanted to be. Since joining the Laurel Hill staff in 2016, she has quickly become a beloved teacher not only of Yellow Room classes, but of daily Music and Movement in Blue Room.
+
+"I believe that in order to be great at what you do you have to love what you do. I always loved music, but when I was able to share my love of music with the children and parents around me I knew that teaching was the path for me." 
 
 ### Ann Phelan, Art Teacher
 
