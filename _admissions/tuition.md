@@ -26,3 +26,5 @@ In addition to monthly tuition, families are required to buy or sell one block o
 All rates are subject to yearly increases.
 
 ## Scholarship Asssistance
+
+In an effort to insure that Laurel Hill is accessible to families of all income levels, we offer a tuition assistance program for qualified families. Families receive assistance according to their level of need. Our application process begins the summer prior to the school year. Families qualifying for tuition assistance will be notified of their level of assistance before the first day of the semester.
